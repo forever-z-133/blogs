@@ -17,4 +17,4 @@
 > ### 其他
 
 * [markdown 编辑器](http://pandao.github.io/editor.md/)
-* [寻找免费 VPN](https://www.seednet.me/)
+* [寻找免费 VPN](https://www.seednet.me/)（每天免费4-24小时，勤快的话攒积分基本也可以免费好几个月，业界良心）
