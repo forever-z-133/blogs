@@ -5,7 +5,7 @@
 * [input file 与拍照问题](https://github.com/foreverZ133/blogs/issues/2)
 * [微信小程序 drawImage 问题](https://github.com/foreverZ133/blogs/issues/1)
 * [字体文件的引用与压缩](https://github.com/foreverZ133/blogs/issues/3)
-* [【未动笔】前端制作遮罩与蒙版]()
+* [【未动笔】前端制作遮罩与蒙版](#)
 * [【未动笔】手机横屏怎么办]()
 * [【未动笔】JS 数据类型方面的蹊跷]()
 * [【未动笔】为压图与并图走过的路]()
