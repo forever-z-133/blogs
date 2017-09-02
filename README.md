@@ -22,7 +22,7 @@
 > ### 学习笔记
 
 * [闲谈 css float 的二三事](https://github.com/foreverZ133/blogs/issues/4)
-* [【未动笔】JS 数据操作方法一览](#)
+* [【未完成】JS 所有数据类型的属性方法](https://github.com/foreverZ133/blogs/issues/5)：[Number](https://github.com/foreverZ133/blogs/issues/5#user-content-number)
 * [【未动笔】ES6 - Symbol](#)
 * [【未动笔】ES6 - Promiss / async / awiat](#)
 * [【未动笔】ES6 - Set / WeakSet / Map](#)
