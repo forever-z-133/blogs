@@ -7,8 +7,10 @@
 * [字体文件的引用与压缩](https://github.com/foreverZ133/blogs/issues/3)
 * [【未动笔】前端制作遮罩与蒙版](#)
 * [【未动笔】手机横屏怎么办](#)
-* [【未动笔】JS 数据类型方面的蹊跷](#)
+* [【开始整理】JS 数据类型方面的蹊跷](https://github.com/foreverZ133/blogs/issues/13)
 * [【未动笔】为压图与并图走过的路](#)
+* [【未动笔】CSS 中的层叠上下文](#)
+* [【未动笔】视频音频播放有古怪](#)
 
 > ### 案例介绍
 
@@ -28,6 +30,7 @@
 * [【开始整理】String 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/8)
 * [【开始整理】Array 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/9)
 * [【开始整理】Object 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/10)
+* [【未动笔】I love 正则](#)
 * [【未动笔】ES6 - Symbol](#)
 * [【未动笔】ES6 - Promiss / async / awiat](#)
 * [【未动笔】ES6 - Set / WeakSet / Map](#)
@@ -37,7 +40,6 @@
 * [【开始整理】vue 基础知识](https://github.com/foreverZ133/blogs/issues/12)
 * [【未动笔】vue-router 基础知识](#)
 * [【未动笔】vuex 基础知识](#)
-* [【未动笔】I love 正则](#)
 
 > ### 工具与其他
 
