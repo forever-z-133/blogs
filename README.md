@@ -30,7 +30,7 @@
 * [【开始整理】String 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/8)
 * [【开始整理】Array 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/9)
 * [【开始整理】Object 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/10)
-* [【未动笔】I love 正则](#)
+* [【开始整理】I love 正则](https://github.com/foreverZ133/blogs/issues/14)
 * [【未动笔】ES6 - Symbol](#)
 * [【未动笔】ES6 - Promiss / async / awiat](#)
 * [【未动笔】ES6 - Set / WeakSet / Map](#)
