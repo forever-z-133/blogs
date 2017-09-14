@@ -45,6 +45,6 @@
 > ### 工具与其他
 
 * [markdown 编辑器](http://pandao.github.io/editor.md/)（只有线上版，线下版我用 [MarkdownEditor](http://www.appinn.com/markdowneditor/)）
-* [寻找免费 VPN](https://www.seednet.me/)（每天免费4-24小时，勤快的话攒积分基本也可以免费好几个月，业界良心）
+* [寻找免费 VPN](https://www.seednet.me/)（业界良心，但目前好像又被禁了）
 * [cubic-bezier 编辑器](http://yisibl.github.io/cubic-bezier/)（用以 CSS3 动画中调节速率，非常爽）
 * [大神们的对话圈子 FM](http://teahour.fm/)（看过一期尤雨溪的访谈后欲罢不能，但好像不更新了）
