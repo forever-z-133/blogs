@@ -24,6 +24,7 @@
 > ### 学习笔记
 
 * [闲谈 css float 的二三事](https://github.com/foreverZ133/blogs/issues/4)
+* [Tween.js 的使用](https://github.com/foreverZ133/blogs/issues/16)
 * [Number 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/5)
 * [【开始整理】Math 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/6)
 * [【开始整理】Date 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/7)
