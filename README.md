@@ -26,7 +26,7 @@
 * [闲谈 css float 的二三事](https://github.com/foreverZ133/blogs/issues/4)
 * [Tween.js 的使用](https://github.com/foreverZ133/blogs/issues/16)
 * [Number 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/5)
-* [【开始整理】Math 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/6)
+* [Math 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/6)
 * [【开始整理】Date 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/7)
 * [【开始整理】String 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/8)
 * [【开始整理】Array 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/9)
@@ -37,6 +37,7 @@
 * [【未动笔】ES6 - Set / WeakSet / Map](#)
 * [【未动笔】ES6 - Class](#)
 * [【未动笔】webpack 基础知识](#)
+* [【未动笔】gulp 基础知识](#)
 * [【未动笔】react 基础知识](#)
 * [【开始整理】vue 基础知识](https://github.com/foreverZ133/blogs/issues/12)
 * [【未动笔】vue-router 基础知识](#)
@@ -48,3 +49,4 @@
 * [寻找免费 VPN](https://www.seednet.me/)（业界良心，但目前好像又被禁了）
 * [cubic-bezier 编辑器](http://yisibl.github.io/cubic-bezier/)（用以 CSS3 动画中调节速率，非常爽）
 * [大神们的对话圈子 FM](http://teahour.fm/)（看过一期尤雨溪的访谈后欲罢不能，但好像不更新了）
+* [CodeWars](http://www.codewars.com/)（练习 javascript，加载有点慢，但可以见到各式各样的需求）
