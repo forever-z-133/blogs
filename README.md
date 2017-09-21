@@ -39,7 +39,7 @@
 * [【未动笔】webpack 基础知识](#)
 * [【未动笔】gulp 基础知识](#)
 * [【未动笔】react 基础知识](#)
-* [【开始整理】vue 基础知识](https://github.com/foreverZ133/blogs/issues/12)
+* [【完成过半】vue 基础知识](https://github.com/foreverZ133/blogs/issues/12)
 * [【未动笔】vue-router 基础知识](#)
 * [【未动笔】vuex 基础知识](#)
 
