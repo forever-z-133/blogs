@@ -11,6 +11,7 @@
 * [【未动笔】为压图与并图走过的路](#)
 * [【开始整理】CSS 中的层叠上下文](https://github.com/foreverZ133/blogs/issues/15)
 * [【未动笔】视频音频播放有古怪](#)
+* [【未动笔】深入理解 JavaScript 作用域](#)
 
 > ### 案例介绍
 
@@ -42,11 +43,12 @@
 * [【完成过半】vue 基础知识](https://github.com/foreverZ133/blogs/issues/12)
 * [【未动笔】vue-router 基础知识](#)
 * [【未动笔】vuex 基础知识](#)
+* [【未动笔】函数柯里化与反柯里化](#)
 
 > ### 工具与其他
 
 * [markdown 编辑器](http://pandao.github.io/editor.md/)（只有线上版，线下版我用 [MarkdownEditor](http://www.appinn.com/markdowneditor/)）
-* [寻找免费 VPN](https://www.seednet.me/)（业界良心，但目前好像又被禁了）
+* <del>[寻找免费 VPN](https://www.seednet.me/)（业界良心，但目前好像又被禁了）</del>
 * [cubic-bezier 编辑器](http://yisibl.github.io/cubic-bezier/)（用以 CSS3 动画中调节速率，非常爽）
 * [大神们的对话圈子 FM](http://teahour.fm/)（看过一期尤雨溪的访谈后欲罢不能，但好像不更新了）
 * [CodeWars](http://www.codewars.com/)（练习 javascript，加载有点慢，但可以见到各式各样的需求）
