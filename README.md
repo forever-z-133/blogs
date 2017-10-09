@@ -29,7 +29,7 @@
 * [Tween.js 的使用](https://github.com/foreverZ133/blogs/issues/16)
 * [Number 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/5)
 * [Math 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/6)
-* [【开始整理】Date 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/7)
+* [Date 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/7)
 * [【开始整理】String 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/8)
 * [【开始整理】Array 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/9)
 * [【开始整理】Object 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/10)
