@@ -35,7 +35,7 @@
 * [【开始整理】Object 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/10)
 * [【开始整理】I love 正则](https://github.com/foreverZ133/blogs/issues/14)
 * [【未动笔】ES6 - Symbol](#)
-* [【未动笔】ES6 - Promiss / async / awiat](#)
+* [【开始整理】ES6 - Promiss / async / awiat](https://github.com/foreverZ133/blogs/issues/19)
 * [【未动笔】ES6 - Set / WeakSet / Map](#)
 * [【未动笔】ES6 - Class](#)
 * [【未动笔】webpack 基础知识](#)
