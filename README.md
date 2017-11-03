@@ -54,3 +54,4 @@
 * [cubic-bezier 编辑器](http://yisibl.github.io/cubic-bezier/)（用以 CSS3 动画中调节速率，非常爽）
 * [大神们的对话圈子 FM](http://teahour.fm/)（看过一期尤雨溪的访谈后欲罢不能，但好像不更新了）
 * [CodeWars](http://www.codewars.com/)（练习 javascript，加载有点慢，但可以见到各式各样的需求）
+* [图片压缩工具 Antelope](https://pan.baidu.com/s/1o8KD2Lc)（压缩率堪比 TinyPNG，还不限量，还能压缩 GIF）
