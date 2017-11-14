@@ -7,7 +7,7 @@
 * [字体文件的引用与压缩](https://github.com/foreverZ133/blogs/issues/3)
 * [transition 需要注意的问题](https://github.com/foreverZ133/blogs/issues/18)
 * [小程序嵌入网页功能 web-view 的研究](https://github.com/foreverZ133/blogs/issues/20)
-* [【未动笔】前端制作遮罩与蒙版](#)
+* [【开始整理】前端制作遮罩与蒙版](https://github.com/foreverZ133/blogs/issues/21)
 * [【未动笔】手机横屏怎么办](#)
 * [【开始整理】JS 数据类型方面的蹊跷](https://github.com/foreverZ133/blogs/issues/13)
 * [【未动笔】为压图与并图走过的路](#)
@@ -56,3 +56,4 @@
 * [CodeWars](http://www.codewars.com/)（练习 javascript，加载有点慢，但可以见到各式各样的需求）
 * [图片压缩工具 Antelope](https://pan.baidu.com/s/1o8KD2Lc)（压缩率堪比 TinyPNG，还不限量，还能压缩 GIF）
 * [前端技术书籍](https://pan.baidu.com/s/1sl2Xekl)（大概90多本，有些较旧，酌情下载）
+* [前端技术笔记本](https://devhints.io/)（比如搜 react，里面包含了所有 api 和知识点，进行了分组，非常棒的笔记本）
