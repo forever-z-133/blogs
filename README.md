@@ -7,7 +7,7 @@
 * [字体文件的引用与压缩](https://github.com/foreverZ133/blogs/issues/3)
 * [transition 需要注意的问题](https://github.com/foreverZ133/blogs/issues/18)
 * [小程序嵌入网页功能 web-view 的研究](https://github.com/foreverZ133/blogs/issues/20)
-* [【开始整理】前端制作遮罩与蒙版](https://github.com/foreverZ133/blogs/issues/21)
+* [前端制作遮罩与蒙版](https://github.com/foreverZ133/blogs/issues/21)
 * [【未动笔】手机横屏怎么办](#)
 * [【开始整理】JS 数据类型方面的蹊跷](https://github.com/foreverZ133/blogs/issues/13)
 * [【未动笔】为压图与并图走过的路](#)
