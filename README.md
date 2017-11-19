@@ -28,6 +28,7 @@
 
 * [闲谈 css float 的二三事](https://github.com/foreverZ133/blogs/issues/4)
 * [Tween.js 的使用](https://github.com/foreverZ133/blogs/issues/16)
+* [无刷新跳页与 history API](https://github.com/foreverZ133/blogs/issues/22)
 * [Number 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/5)
 * [Math 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/6)
 * [Date 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/7)
