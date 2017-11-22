@@ -8,10 +8,10 @@
 * [transition 需要注意的问题](https://github.com/foreverZ133/blogs/issues/18)
 * [小程序嵌入网页功能 web-view 的研究](https://github.com/foreverZ133/blogs/issues/20)
 * [前端制作遮罩与蒙版](https://github.com/foreverZ133/blogs/issues/21)
+* [CSS 中的层叠上下文](https://github.com/foreverZ133/blogs/issues/15)
 * [【未动笔】手机横屏怎么办](#)
 * [【开始整理】JS 数据类型方面的蹊跷](https://github.com/foreverZ133/blogs/issues/13)
 * [【未动笔】为压图与并图走过的路](#)
-* [【开始整理】CSS 中的层叠上下文](https://github.com/foreverZ133/blogs/issues/15)
 * [【未动笔】视频音频播放有古怪](#)
 * [【未动笔】深入理解 JavaScript 作用域](#)
 
