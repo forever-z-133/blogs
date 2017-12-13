@@ -9,8 +9,8 @@
 * [闲谈 css float 的二三事](https://github.com/foreverZ133/blogs/issues/4)
 * [前端制作遮罩与蒙版](https://github.com/foreverZ133/blogs/issues/21)
 * [CSS 中的层叠上下文](https://github.com/foreverZ133/blogs/issues/15)
-* [JS 的作用域与作用域链](https://github.com/foreverZ133/blogs/issues/23)
 * [前端路由或单页面应用基础](https://github.com/foreverZ133/blogs/issues/22)
+* [【重写中】JS 的作用域与作用域链](https://github.com/foreverZ133/blogs/issues/23)
 * [【开始整理】异步编程开发的流派](https://github.com/foreverZ133/blogs/issues/19)
 * [【开始整理】JS 数据类型方面的蹊跷](https://github.com/foreverZ133/blogs/issues/13)
 * [【未动笔】函数柯里化与反柯里化](#)
@@ -61,3 +61,4 @@
 * [图片压缩工具 Antelope](https://pan.baidu.com/s/1o8KD2Lc)（压缩率堪比 TinyPNG，且不限量，还能压缩 GIF）
 * [前端技术书籍](https://pan.baidu.com/s/1sl2Xekl)（大概90多本，有些较旧，酌情下载）
 * [前端技术笔记本](https://devhints.io/)（比如搜 react，里面包含了所有 api 和知识点，进行了分组，非常棒的笔记本）
+* [picsvg](http://picsvg.com/)（可将图片直接转为SVG）
