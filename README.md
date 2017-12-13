@@ -61,4 +61,4 @@
 * [图片压缩工具 Antelope](https://pan.baidu.com/s/1o8KD2Lc)（压缩率堪比 TinyPNG，且不限量，还能压缩 GIF）
 * [前端技术书籍](https://pan.baidu.com/s/1sl2Xekl)（大概90多本，有些较旧，酌情下载）
 * [前端技术笔记本](https://devhints.io/)（比如搜 react，里面包含了所有 api 和知识点，进行了分组，非常棒的笔记本）
-* [picsvg](http://picsvg.com/)（可将图片直接转为SVG）
+* [picsvg](http://picsvg.com/)（可将图片直接转为SVG），[svgomg](https://jakearchibald.github.io/svgomg/)（SVG压缩）
