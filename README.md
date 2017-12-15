@@ -10,6 +10,7 @@
 * [前端制作遮罩与蒙版](https://github.com/foreverZ133/blogs/issues/21)
 * [CSS 中的层叠上下文](https://github.com/foreverZ133/blogs/issues/15)
 * [前端路由或单页面应用基础](https://github.com/foreverZ133/blogs/issues/22)
+* [微信小程序中的一些技巧研究](https://github.com/foreverZ133/blogs/issues/25)
 * [【重写中】JS 的作用域与作用域链](https://github.com/foreverZ133/blogs/issues/23)
 * [【开始整理】异步编程开发的流派](https://github.com/foreverZ133/blogs/issues/19)
 * [【开始整理】JS 数据类型方面的蹊跷](https://github.com/foreverZ133/blogs/issues/13)
