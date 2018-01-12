@@ -35,10 +35,7 @@
 * [Tween.js 的使用](https://github.com/foreverZ133/blogs/issues/16)
 * [函数的科里化与反科里化](https://github.com/foreverZ133/blogs/issues/26)
 * [CSS 中的层叠上下文](https://github.com/foreverZ133/blogs/issues/15)
-* [Number 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/5)
-* [Math 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/6)
-* [Date 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/7)
-* [【开始整理】常见的几种设计模式](https://github.com/foreverZ133/blogs/issues/27)
+* [常见的几种设计模式](https://github.com/foreverZ133/blogs/issues/27)
 * [【开始整理】String 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/8)
 * [【开始整理】Array 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/9)
 * [【开始整理】Object 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/10)
@@ -52,11 +49,14 @@
 * [【完成过半】vue 基础知识](https://github.com/foreverZ133/blogs/issues/12)
 * [【未动笔】vue-router 基础知识](#)
 * [【未动笔】vuex 基础知识](#)
+* [Number 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/5)
+* [Math 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/6)
+* [Date 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/7)
 
 > ### 工具与其他
 
 * [markdown 编辑器](http://pandao.github.io/editor.md/)（只有线上版，线下版我用 [MarkdownEditor](http://www.appinn.com/markdowneditor/)）
-* [寻找免费 VPN - Seed](http://www.seednet.pro/)（green 的后代，业界良心，但目前好像又被禁了）
+* [寻找免费 VPN - Seed](http://www.seednet.pro/)（green 的后代，业界良心，可能又会被禁）
 * [cubic-bezier 编辑器](http://yisibl.github.io/cubic-bezier/)（用以 CSS3 动画中调节速率，非常爽）
 * [大神们的对话圈子 FM](http://teahour.fm/)（看过一期尤雨溪的访谈后欲罢不能，但好像不更新了）
 * [CodeWars](http://www.codewars.com/)（练习 javascript，加载有点慢，但可以见到各式各样的需求）
