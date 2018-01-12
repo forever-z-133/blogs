@@ -56,7 +56,7 @@
 > ### 工具与其他
 
 * [markdown 编辑器](http://pandao.github.io/editor.md/)（只有线上版，线下版我用 [MarkdownEditor](http://www.appinn.com/markdowneditor/)）
-* <del>[寻找免费 VPN](https://www.seednet.me/)（业界良心，但目前好像又被禁了）</del>
+* [寻找免费 VPN - Seed](http://www.seednet.pro/)（green 的后代，业界良心，但目前好像又被禁了）
 * [cubic-bezier 编辑器](http://yisibl.github.io/cubic-bezier/)（用以 CSS3 动画中调节速率，非常爽）
 * [大神们的对话圈子 FM](http://teahour.fm/)（看过一期尤雨溪的访谈后欲罢不能，但好像不更新了）
 * [CodeWars](http://www.codewars.com/)（练习 javascript，加载有点慢，但可以见到各式各样的需求）
