@@ -1,50 +1,40 @@
 ## 永恒君的小博客
 关于日常学习实践的积累、经验和填坑记录
-> ### 坑眼专题研究
+
+> ### 坑眼与案例
 
 * [input file 与拍照问题](https://github.com/foreverZ133/blogs/issues/2)
-* [微信小程序 drawImage 问题](https://github.com/foreverZ133/blogs/issues/1)
 * [字体文件的引用与压缩](https://github.com/foreverZ133/blogs/issues/3)
-* [闲谈 css float 的二三事](https://github.com/foreverZ133/blogs/issues/4)
-* [前端制作遮罩与蒙版](https://github.com/foreverZ133/blogs/issues/21)
-* [前端路由或单页面应用基础](https://github.com/foreverZ133/blogs/issues/22)
 * [微信推文中使用 SVG](https://github.com/foreverZ133/blogs/issues/28)
-* [【重写中】JS 的作用域与作用域链](https://github.com/foreverZ133/blogs/issues/23)
-* [【开始整理】异步编程开发的流派](https://github.com/foreverZ133/blogs/issues/19)
-* [【开始整理】JS 数据类型方面的蹊跷](https://github.com/foreverZ133/blogs/issues/13)
-* [【未动笔】手机横屏怎么办](#)
-* [【未动笔】为压图与并图走过的路](#)
-* [【未动笔】视频音频播放有古怪](#)
-* [【未动笔】深入理解 JavaScript 作用域](#)
-
-> ### 成功案例介绍
-
-* [有关时间的一些操作](https://github.com/foreverZ133/blogs/issues/11)
+* [有关时间的一些骚操作](https://github.com/foreverZ133/blogs/issues/11)
+* [微信小程序 drawImage 问题](https://github.com/foreverZ133/blogs/issues/1)
 * [小程序 web-view 嵌入网页功能](https://github.com/foreverZ133/blogs/issues/20)
-* [小程序中的一些技巧研究](https://github.com/foreverZ133/blogs/issues/25)
+* [小程序中的一些技巧和方法](https://github.com/foreverZ133/blogs/issues/25)
 * [【开始整理】全景效果的实现](https://github.com/foreverZ133/blogs/issues/17)
 * [【未动笔】提示组件的插件化](#)
 * [【未动笔】自写滚动模拟](#)
 * [【未动笔】写游戏前可能要学会的思路](#)
 * [【未动笔】当你写过 100 个加载动画后](#)
+* [【未动笔】手机横屏怎么办](#)
+* [【未动笔】为压图与并图走过的路](#)
+* [【未动笔】视频音频播放有古怪](#)
 
-> ### 学习笔记
+> ### 学习与专题
 
-* [无刷新跳页与 history API](https://github.com/foreverZ133/blogs/issues/22)
-* [transition 需要注意的问题](https://github.com/foreverZ133/blogs/issues/18)
+* [前端路由或单页面应用基础](https://github.com/foreverZ133/blogs/issues/22)
+* [前端制作遮罩与蒙版](https://github.com/foreverZ133/blogs/issues/21)
 * [Tween.js 的使用](https://github.com/foreverZ133/blogs/issues/16)
 * [函数的科里化与反科里化](https://github.com/foreverZ133/blogs/issues/26)
 * [CSS 中的层叠上下文](https://github.com/foreverZ133/blogs/issues/15)
 * [常见的几种设计模式](https://github.com/foreverZ133/blogs/issues/27))
 * [响应式页面几大流派](https://github.com/foreverZ133/blogs/issues/29)
-* [【开始整理】String 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/8)
-* [【开始整理】Array 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/9)
-* [【开始整理】Object 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/10)
-* [【开始整理】I love 正则](https://github.com/foreverZ133/blogs/issues/14)
+* [闲谈 css float 的二三事](https://github.com/foreverZ133/blogs/issues/4)
+* [transition 需要注意的问题](https://github.com/foreverZ133/blogs/issues/18)
 * [【完成过半】vue 基础知识](https://github.com/foreverZ133/blogs/issues/12)
-* [Number 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/5)
-* [Math 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/6)
-* [Date 对象所有的属性方法](https://github.com/foreverZ133/blogs/issues/7)
+* [【开始整理】I love 正则](https://github.com/foreverZ133/blogs/issues/14)
+* [【开始整理】JS 数据类型方面的蹊跷](https://github.com/foreverZ133/blogs/issues/13)
+* [【重写中】JS 的作用域与作用域链](https://github.com/foreverZ133/blogs/issues/23)
+* [【开始整理】异步编程开发的流派](https://github.com/foreverZ133/blogs/issues/19)
 
 > ### 工具与其他
 
