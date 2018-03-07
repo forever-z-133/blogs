@@ -26,7 +26,7 @@
 * [Tween.js 的使用](https://github.com/foreverZ133/blogs/issues/16)
 * [函数的科里化与反科里化](https://github.com/foreverZ133/blogs/issues/26)
 * [CSS 中的层叠上下文](https://github.com/foreverZ133/blogs/issues/15)
-* [常见的几种设计模式](https://github.com/foreverZ133/blogs/issues/27))
+* [常见的几种设计模式](https://github.com/foreverZ133/blogs/issues/27)
 * [响应式页面几大流派](https://github.com/foreverZ133/blogs/issues/29)
 * [闲谈 css float 的二三事](https://github.com/foreverZ133/blogs/issues/4)
 * [transition 需要注意的问题](https://github.com/foreverZ133/blogs/issues/18)
@@ -38,7 +38,7 @@
 
 > ### 工具与其他
 
-* [寻找免费 VPN - Seed](http://52.187.146.95/)（Green 的后代，业界良心，又被禁了）
+* [寻找免费 VPN - Seed](http://52.187.146.95/)（Green 的后代，业界良心，但又被禁了）
 * [cubic-bezier 编辑器](http://yisibl.github.io/cubic-bezier/)（用以 CSS3 动画中调节速率，非常爽）
 * [大神们的对话圈子 FM](http://teahour.fm/)（看过一期尤雨溪的访谈后欲罢不能，但好像不更新了）
 * [CodeWars](http://www.codewars.com/)（练习 javascript，加载有点慢，但可以见到各式各样的需求）
