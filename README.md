@@ -10,6 +10,7 @@
 * [微信小程序 drawImage 问题](https://github.com/foreverZ133/blogs/issues/1)
 * [小程序 web-view 嵌入网页功能](https://github.com/foreverZ133/blogs/issues/20)
 * [小程序中的一些技巧和方法](https://github.com/foreverZ133/blogs/issues/25)
+* [记一次合并单元格的渲染优化](https://github.com/foreverZ133/blogs/issues/32)
 * [【开始整理】全景效果的实现](https://github.com/foreverZ133/blogs/issues/17)
 * [【未动笔】提示组件的插件化](#)
 * [【未动笔】自写滚动模拟](#)
