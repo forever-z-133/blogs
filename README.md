@@ -47,4 +47,4 @@
 * [前端技术书籍](https://pan.baidu.com/s/1sl2Xekl)（大概90多本，有些较旧，酌情下载）
 * [前端技术笔记本](https://devhints.io/)（比如搜 react，里面包含了所有 api 和知识点，进行了分组，非常棒的笔记本）
 * [picsvg](http://picsvg.com/)（可将图片直接转为SVG），[svgomg](https://jakearchibald.github.io/svgomg/)（SVG压缩）
-* [fontke](https://www.fontke.com/tool/convfont/)（字体转换工具，可转 IE9+ 必需的 eot 格式）
+* [fontke](https://www.fontke.com/tool/convfont/)（字体转换工具，可转 IE9+ 必需的 eot 格式），[fontmin](http://ecomfe.github.io/fontmin/) 仅支持 tff 格式为基础的转换和压缩
