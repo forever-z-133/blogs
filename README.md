@@ -24,6 +24,7 @@
 
 * [前端路由或单页面应用基础](https://github.com/foreverZ133/blogs/issues/22)
 * [前端制作遮罩与蒙版](https://github.com/foreverZ133/blogs/issues/21)
+* [JS 数据类型方面的蹊跷](https://github.com/foreverZ133/blogs/issues/13)
 * [Tween.js 的使用](https://github.com/foreverZ133/blogs/issues/16)
 * [函数的科里化与反科里化](https://github.com/foreverZ133/blogs/issues/26)
 * [CSS 中的层叠上下文](https://github.com/foreverZ133/blogs/issues/15)
@@ -33,7 +34,6 @@
 * [transition 需要注意的问题](https://github.com/foreverZ133/blogs/issues/18)
 * [【完成过半】vue 基础知识](https://github.com/foreverZ133/blogs/issues/12)
 * [【开始整理】I love 正则](https://github.com/foreverZ133/blogs/issues/14)
-* [【开始整理】JS 数据类型方面的蹊跷](https://github.com/foreverZ133/blogs/issues/13)
 * [【重写中】JS 的作用域与作用域链](https://github.com/foreverZ133/blogs/issues/23)
 * [【开始整理】异步编程开发的流派](https://github.com/foreverZ133/blogs/issues/19)
 
