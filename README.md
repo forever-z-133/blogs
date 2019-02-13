@@ -12,6 +12,7 @@
 * [小程序中的一些技巧和方法](https://github.com/foreverZ133/blogs/issues/25)
 * [记一次合并单元格的渲染优化](https://github.com/foreverZ133/blogs/issues/32)
 * [【开始整理】全景效果的实现](https://github.com/foreverZ133/blogs/issues/17)
+* [【开始整理】移动端开启摄像头](https://github.com/foreverZ133/blogs/issues/36)
 * [【未动笔】提示组件的插件化](#)
 * [【未动笔】自写滚动模拟](#)
 * [【未动笔】写游戏前可能要学会的思路](#)
