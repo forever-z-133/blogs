@@ -33,7 +33,7 @@
 * [响应式页面几大流派](https://github.com/foreverZ133/blogs/issues/29)
 * [闲谈 css float 的二三事](https://github.com/foreverZ133/blogs/issues/4)
 * [transition 需要注意的问题](https://github.com/foreverZ133/blogs/issues/18)
-* [【开始整理】I love 正则](https://github.com/foreverZ133/blogs/issues/14)
+* [I love 正则](https://github.com/foreverZ133/blogs/issues/14)
 * [【重写中】JS 的作用域与作用域链](https://github.com/foreverZ133/blogs/issues/23)
 * [【开始整理】异步编程开发的流派](https://github.com/foreverZ133/blogs/issues/19)
 
