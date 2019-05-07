@@ -39,14 +39,14 @@
 
 > ### 工具与其他
 
-* ~~[寻找免费 VPN - Seed](http://52.187.146.95/)~~（Green 的后代，业界良心，但又被禁了）
 * [cubic-bezier 编辑器](http://yisibl.github.io/cubic-bezier/)（用以 CSS3 动画中调节速率，非常爽）
 * [大神们的对话圈子 FM](http://teahour.fm/)（看过一期尤雨溪的访谈后欲罢不能，但好像不更新了）
-* [CodeWars](http://www.codewars.com/)（练习 javascript，加载有点慢，但可以见到各式各样的需求）
+* [CodeWars](http://www.codewars.com/) [LeetCode](https://leetcode-cn.com/)（练习算法，可能会有点慢）
 * [图片压缩工具 Antelope](https://pan.baidu.com/s/1o8KD2Lc)（压缩率堪比 TinyPNG，且不限量，还能压缩 GIF）
 * [前端技术书籍](https://pan.baidu.com/s/1sl2Xekl)（大概90多本，有些较旧，酌情下载）
 * [前端技术笔记本](https://devhints.io/)（比如搜 react，里面包含了所有 api 和知识点，进行了分组，非常棒的笔记本）
 * [picsvg](http://picsvg.com/)（可将图片直接转为SVG），[svgomg](https://jakearchibald.github.io/svgomg/)（SVG压缩）
 * [fontke](https://www.fontke.com/tool/convfont/)（字体转换工具，可转 IE9+ 必需的 eot 格式），[fontmin](http://ecomfe.github.io/fontmin/) 仅支持 tff 格式为基础的转换和压缩
+* [线上 Mock 造数据平台](https://easy-mock.com/)（还可生成能用的接口链接） [最全的 Mockjs 文档](http://mockjs.com/0.1/)
 * [免费的网站托管平台](https://www.netlify.com/)（类似于 gh-pages，但还可以部署前端脚手架项目，自动同步也很棒）
-* ~~[便宜又高速的VPS服务器](https://dedione.com/)~~（和老哥们集资弄了个，平摊下来60块一年还不限流量）（挂了）
+* [免费不限大小的视频床](http://tmp.link/)（试用下来只有这个最爽了）
