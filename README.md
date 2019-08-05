@@ -51,4 +51,5 @@
 * [fontke](https://www.fontke.com/tool/convfont/)（字体转换工具，可转 IE9+ 必需的 eot 格式），[fontmin](http://ecomfe.github.io/fontmin/) 仅支持 tff 格式为基础的转换和压缩
 * [线上 Mock 造数据平台](https://easy-mock.com/)（还可生成能用的接口链接） [最全的 Mockjs 文档](http://mockjs.com/0.1/)
 * [免费的网站托管平台](https://www.netlify.com/)（类似于 gh-pages，但还可以部署前端脚手架项目，自动同步也很棒）
-* [视频床](http://tmp.link/)（不限流量但限时，惨兮兮） [免费图床](https://images.ac.cn/) 
+* [免费后端云](https://www.bmob.cn/)（Bmob，相当于免费数据库，前端直接操作数据库不用接口贼舒服）
+* [免费部署容器](https://github.com/zeit/now-cli)（now-cli，直接 cmd 输入 now 即可部署）
