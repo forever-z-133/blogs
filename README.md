@@ -49,7 +49,7 @@
 * [前端技术笔记本](https://devhints.io/)（比如搜 react，里面包含了所有 api 和知识点，进行了分组，非常棒的笔记本）
 * [picsvg](http://picsvg.com/)（可将图片直接转为SVG），[svgomg](https://jakearchibald.github.io/svgomg/)（SVG压缩）
 * [fontke](https://www.fontke.com/tool/convfont/)（字体转换工具，可转 IE9+ 必需的 eot 格式），[fontmin](http://ecomfe.github.io/fontmin/) 仅支持 tff 格式为基础的转换和压缩
-* [线上 Mock 造数据平台](https://easy-mock.com/)（还可生成能用的接口链接） [最全的 Mockjs 文档](http://mockjs.com/0.1/)
+* [Yapi](http://yapi.demo.qunar.com/) / [DOClever](http://www.doclever.cn/) / [EasyMock](https://easy-mock.com/)（免费接口管理平台） [最全的 Mockjs 文档](http://mockjs.com/0.1/)
 * [免费的网站托管平台](https://www.netlify.com/)（类似于 gh-pages，但还可以部署前端脚手架项目，自动同步也很棒）
 * [免费后端云](https://www.bmob.cn/)（Bmob，相当于免费数据库，前端直接操作数据库不用接口贼舒服）
 * [免费部署容器](https://github.com/zeit/now-cli)（now-cli，直接 cmd 输入 now 即可部署）
