@@ -8,12 +8,12 @@
 * [小程序 web-view 嵌入网页功能](https://github.com/forever-z-133/blogs/issues/20)
 * [transition 需要注意的问题](https://github.com/forever-z-133/blogs/issues/18)
 * [小程序 drawImage 问题](https://github.com/forever-z-133/blogs/issues/1)
+* [webpack 打包时对 import 和 require 的处理](https://github.com/forever-z-133/blogs/issues/44)
 * [【未动笔】视频音频播放有古怪](#)
 * [【未动笔】手机横屏怎么办](#)
 
 > ### 专题研究
 
-* [我理解的前端动画](https://github.com/forever-z-133/blogs/issues/41)
 * [前端制作遮罩与蒙版](https://github.com/forever-z-133/blogs/issues/21)
 * [CSS 中的层叠上下文](https://github.com/forever-z-133/blogs/issues/15)
 * [响应式/自适应几大流派](https://github.com/forever-z-133/blogs/issues/29)
@@ -47,12 +47,15 @@
 * [常见的几种设计模式](https://github.com/forever-z-133/blogs/issues/27)
 * [Tween.js 的使用](https://github.com/forever-z-133/blogs/issues/16)
 * [前端 SEO 优化概述](https://github.com/forever-z-133/blogs/issues/40)
+* [serverless 简叙](https://github.com/forever-z-133/blogs/issues/43)
+* [如何自建脚手架](https://github.com/forever-z-133/blogs/issues/42)
 * [【开始整理】读《深入浅出 webpack》](https://github.com/forever-z-133/blogs/issues/31)
 
 > ### 其他随想
 
 * [闲谈 css float 的二三事](https://github.com/forever-z-133/blogs/issues/4)
 * [读《面向前端的设计规范-文字初探》](https://github.com/forever-z-133/blogs/issues/33)
+* [我理解的前端动画](https://github.com/forever-z-133/blogs/issues/41)
 
 > ### 工具与其他
 
